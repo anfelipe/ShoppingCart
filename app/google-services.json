@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "161061518511",
+    "firebase_url": "https://fir-project-4351d.firebaseio.com",
+    "project_id": "fir-project-4351d",
+    "storage_bucket": "fir-project-4351d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161061518511:android:b565baa8a5477e32",
+        "android_client_info": {
+          "package_name": "co.edu.univalle.firebaseaplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161061518511-idv9l3h1odk205gn5ne7l9io5v9ma628.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjmUY5wpIJBumqHiHpb3DDNoWlRo8Dtps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161061518511-idv9l3h1odk205gn5ne7l9io5v9ma628.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161061518511:android:e4b14658d4f2ffdc",
+        "android_client_info": {
+          "package_name": "co.edu.univalle.shoppingcart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161061518511-idv9l3h1odk205gn5ne7l9io5v9ma628.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjmUY5wpIJBumqHiHpb3DDNoWlRo8Dtps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161061518511-idv9l3h1odk205gn5ne7l9io5v9ma628.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

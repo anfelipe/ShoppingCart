@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ShoppingCart</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="menu_shopping">Tiendas</string>
+
+    <!-- Login -->
+    <string name="lbl_email">Correo</string>
+    <string name="lbl_name">Nombre</string>
+    <string name="lbl_user">Usuario</string>
+    <string name="lbl_password">Contraseña</string>
+    <string name="btn_sing_in">Ingresar</string>
+    <string name="btn_register_user">Registrarse</string>
+
+    <!-- Product -->
+    <string name="lbl_descripcion">Descripción</string>
+    <string name="sizes">S M L</string>
+    <string name="btn_buy">Comprar</string>
+    <string name="lbl_total">Total:</string>
+    <string name="lbl_cantidad_productos">Productos:</string>
+    
+    <string name="loading">Cargando...</string>
+
+    <!--Key-->
+    <string name="keyForever21">90de3f34d5msha455e897baaa3a4p1a9b87jsn5d5db2ab1aae</string>
+    <string name="googleMapsKey">AIzaSyB3L_y-afL_ImmWCbsMYfCgigmp3x_-xgw</string>
+</resources>
